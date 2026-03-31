@@ -46,4 +46,5 @@ This project was developed with AI-assisted research support and documentation g
 This is a research and concept project created for experimentation and educational purposes. Nothing in this repository should be interpreted as financial advice or an investment offering.
 
 ## Author
+https://x.com/Boogie_cm
 Independent Web3 researcher exploring prediction markets, creator infrastructure, and AI collaboration transparency.
